@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Insurance\Insurance\bin\Debug\Insurance.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Insurance\Insurance\bin\Debug\Insurance.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Insurance\Insurance\bin\Debug\Insurance.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Insurance\Insurance\obj\Debug\Insurance.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Insurance\Insurance\obj\Debug\Insurance.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Insurance\Insurance\obj\Debug\Insurance.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Insurance\Insurance\obj\Debug\Insurance.pdb
